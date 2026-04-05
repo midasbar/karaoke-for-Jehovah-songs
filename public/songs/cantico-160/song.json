@@ -1,0 +1,208 @@
+{
+  "title": "As Boas Novas sobre Jesus",
+  "number": "Cântico 160",
+  "reference": "Lucas 2:10",
+  "bpm": 92,
+  "key": "Ré maior",
+  "introMs": 22000,
+  "playbackOrder": ["verse1", "chorus", "verse2", "chorus"],
+  "audioFiles": {
+    "sung": "sjjc_T_160.mp3",
+    "melody": "sjjm_T_160.mp3"
+  },
+  "sections": [
+    {
+      "id": "verse1",
+      "label": "Verso 1",
+      "color": "#4A90D9",
+      "lines": [
+        {
+          "id": "v1l1",
+          "syllables": [
+            { "text": "\"Gló", "dur": 600, "pitch": 3, "tip": null },
+            { "text": "-", "dur": 50, "pitch": 3, "tip": null },
+            { "text": "ria", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " nas", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " al", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-", "dur": 50, "pitch": 4, "tip": null },
+            { "text": "tu", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-", "dur": 50, "pitch": 4, "tip": null },
+            { "text": "ras!\"", "dur": 800, "pitch": 3, "tip": null },
+            { "text": " ", "dur": 300, "pitch": 0, "tip": "breath" },
+            { "text": "Paz", "dur": 500, "pitch": 3, "tip": null },
+            { "text": " à", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " Ter", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-", "dur": 50, "pitch": 3, "tip": null },
+            { "text": "ra", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " vem.", "dur": 800, "pitch": 2, "tip": null }
+          ]
+        },
+        {
+          "id": "v1l2",
+          "syllables": [
+            { "text": "Ho", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-je", "dur": 300, "pitch": 3, "tip": "smooth" },
+            { "text": " há", "dur": 600, "pitch": 3, "tip": null },
+            { "text": " bo", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-", "dur": 50, "pitch": 3, "tip": null },
+            { "text": "as", "dur": 400, "pitch": 4, "tip": null },
+            { "text": " no", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-", "dur": 50, "pitch": 4, "tip": null },
+            { "text": "vas", "dur": 400, "pitch": 4, "tip": null },
+            { "text": " em", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " Be", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-", "dur": 50, "pitch": 3, "tip": null },
+            { "text": "lém!", "dur": 900, "pitch": 3, "tip": null }
+          ]
+        },
+        {
+          "id": "v1l3",
+          "syllables": [
+            { "text": "E", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-le", "dur": 300, "pitch": 3, "tip": "smooth" },
+            { "text": " en", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-fim", "dur": 400, "pitch": 4, "tip": null },
+            { "text": " che", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-gou:", "dur": 600, "pitch": 3, "tip": null },
+            { "text": " ", "dur": 300, "pitch": 0, "tip": "breath" },
+            { "text": "nas", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-ceu", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " o", "dur": 300, "pitch": 3, "tip": null },
+            { "text": " Sal", "dur": 400, "pitch": 4, "tip": "volume-up" },
+            { "text": "-", "dur": 50, "pitch": 4, "tip": null },
+            { "text": "va", "dur": 500, "pitch": 5, "tip": "volume-up" },
+            { "text": "-", "dur": 50, "pitch": 4, "tip": null },
+            { "text": "dor!", "dur": 900, "pitch": 3, "tip": "hold" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verse2",
+      "label": "Verso 2",
+      "color": "#4A90D9",
+      "lines": [
+        {
+          "id": "v2l1",
+          "syllables": [
+            { "text": "O", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " seu", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " Rei", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-no", "dur": 400, "pitch": 4, "tip": null },
+            { "text": " não", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " tem", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " fim.", "dur": 700, "pitch": 2, "tip": null },
+            { "text": " ", "dur": 300, "pitch": 0, "tip": "breath" },
+            { "text": "Na", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-da", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " vai", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " fal", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-tar.", "dur": 800, "pitch": 2, "tip": null }
+          ]
+        },
+        {
+          "id": "v2l2",
+          "syllables": [
+            { "text": "Com", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " bon", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-da", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-de", "dur": 400, "pitch": 4, "tip": null },
+            { "text": " e", "dur": 300, "pitch": 4, "tip": null },
+            { "text": "-le", "dur": 300, "pitch": 4, "tip": "smooth" },
+            { "text": " vai", "dur": 400, "pitch": 4, "tip": null },
+            { "text": " rei", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-nar.", "dur": 800, "pitch": 3, "tip": null }
+          ]
+        },
+        {
+          "id": "v2l3",
+          "syllables": [
+            { "text": "Jus", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-to", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " e", "dur": 300, "pitch": 3, "tip": null },
+            { "text": " ca", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-paz,", "dur": 600, "pitch": 4, "tip": null },
+            { "text": " ", "dur": 300, "pitch": 0, "tip": "breath" },
+            { "text": "o", "dur": 300, "pitch": 3, "tip": null },
+            { "text": " Prín", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-ci", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-pe", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " da", "dur": 400, "pitch": 4, "tip": null },
+            { "text": " Paz!", "dur": 900, "pitch": 5, "tip": "hold" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "label": "Refrão",
+      "color": "#E8A020",
+      "lines": [
+        {
+          "id": "cl1",
+          "syllables": [
+            { "text": "\"Gló", "dur": 500, "pitch": 4, "tip": "volume-up" },
+            { "text": "-ria!", "dur": 600, "pitch": 5, "tip": "volume-up" },
+            { "text": " ", "dur": 200, "pitch": 0, "tip": null },
+            { "text": "Gló", "dur": 500, "pitch": 4, "tip": null },
+            { "text": "-ria", "dur": 400, "pitch": 4, "tip": "smooth" },
+            { "text": " a", "dur": 300, "pitch": 3, "tip": null },
+            { "text": " Deus!", "dur": 800, "pitch": 3, "tip": null },
+            { "text": " ", "dur": 300, "pitch": 0, "tip": "breath" },
+            { "text": "Va", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-mos", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " de", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-cla", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-rar.", "dur": 800, "pitch": 2, "tip": null }
+          ]
+        },
+        {
+          "id": "cl2",
+          "syllables": [
+            { "text": "Dei", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-xe", "dur": 300, "pitch": 4, "tip": "smooth" },
+            { "text": " a", "dur": 300, "pitch": 4, "tip": null },
+            { "text": " luz", "dur": 600, "pitch": 5, "tip": "volume-up" },
+            { "text": " bri", "dur": 500, "pitch": 4, "tip": null },
+            { "text": "-lhar!", "dur": 900, "pitch": 3, "tip": "hold" },
+            { "text": " ", "dur": 500, "pitch": 0, "tip": "breath" },
+            { "text": "Man", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-sos,", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " não", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " cho", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-rem", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " mais;", "dur": 700, "pitch": 2, "tip": null }
+          ]
+        },
+        {
+          "id": "cl3",
+          "syllables": [
+            { "text": "o", "dur": 300, "pitch": 3, "tip": null },
+            { "text": "-lhem", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " pra", "dur": 400, "pitch": 4, "tip": null },
+            { "text": " Je", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-sus!", "dur": 700, "pitch": 4, "tip": null },
+            { "text": " ", "dur": 300, "pitch": 0, "tip": "breath" },
+            { "text": "Pois,", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " na", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " es", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-cu", "dur": 400, "pitch": 3, "tip": null },
+            { "text": "-ri", "dur": 400, "pitch": 4, "tip": null },
+            { "text": "-dão,", "dur": 600, "pitch": 4, "tip": null },
+            { "text": " Jeo", "dur": 500, "pitch": 4, "tip": null },
+            { "text": "-vá", "dur": 500, "pitch": 4, "tip": null }
+          ]
+        },
+        {
+          "id": "cl4",
+          "syllables": [
+            { "text": "man", "dur": 500, "pitch": 4, "tip": null },
+            { "text": "-dou", "dur": 500, "pitch": 4, "tip": null },
+            { "text": " a", "dur": 400, "pitch": 3, "tip": null },
+            { "text": " luz!", "dur": 1400, "pitch": 5, "tip": "hold" }
+          ]
+        }
+      ]
+    }
+  ]
+}
